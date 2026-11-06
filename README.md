@@ -1,6 +1,6 @@
 # 🐍 Estudos de Python e APIs | Generation Brasil — AD05
 
-# Cat\Dog
+## 🐱🐶 Projeto Cat & Dog — Consumo de APIs com Python
 
 ## 📌 Sobre o repositório
 
